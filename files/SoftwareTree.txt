@@ -1,0 +1,23 @@
+/GlassLibrary/Software
+|-- [   0]  EvolutionAI
+|   `-- [   0]  carykh
+|       |-- [956K]  Evolution3.zip
+|       `-- [970K]  EvolutionMath.zip
+|-- [   0]  GameOfLife
+|   |-- [   0]  Mac
+|   |   `-- [8.4M]  Golly-3.2-Mac.dmg
+|   |-- [3.2M]  PatternCollection.zip
+|   `-- [   0]  Windows
+|       `-- [6.0M]  golly-3.2-win-64bit.zip
+|-- [   0]  Graphing_Calculator
+|   `-- [   0]  VTI83
+|       |-- [512K]  ti83p_1.rom
+|       |-- [ 61K]  ti83plus.skn
+|       `-- [1.2M]  vti83.exe
+`-- [   0]  PiCalculation
+    |-- [   0]  Linux
+    |   `-- [ 27M]  y-cruncher_v0.7.7.9499-static.tar.xz
+    `-- [   0]  Windows
+        `-- [ 42M]  y-cruncher_v0.7.7.9499.zip
+
+10 directories, 10 files

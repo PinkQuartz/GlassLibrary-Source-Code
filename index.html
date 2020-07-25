@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+
+    <!--Icon-->
+    <link rel="icon" href="Lambda.png" type="image/icon type">
+    <!--Style Links-->
+    <link rel="stylesheet" type="text/css" href="index.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap" rel="stylesheet">
+
+<head>
+
+    <title>GlassLibrary</title>
+		<style>
+		body {
+		  background: white;
+		  animation: color-me-in 5s; /* other keywords like "infinite alternate" can be useful here */
+		}
+
+		@keyframes color-me-in {
+		  /* You could think of as "step 1" */
+		  0% {
+		    background: black;
+
+		  }
+		  /* You could think of as "step 2" */
+		  100% {
+		    background: white;
+		  }
+		}
+		.header-down-arrow {
+			position: absolute;
+				bottom: 4hv;
+				left: 0;
+				right: 0;
+			text-align: center;
+			z-index: 10;
+		}
+		@keyframes fade-slide-up {
+			0% {
+				opacity: 0;
+				transform: translateY(4rem);
+			}
+			100% {
+				opacity: 1;
+				transform: none;
+			}
+		}
+		.header-down-arrow img {
+		  animation: fade-slide-up 1s 1s ease-out forwards;
+		  opacity: 0;
+		}
+		</style>
+
+		<br>
+		<br>
+		<br>
+    <img src="Lambda.png" width="400" height="400" onclick="newQuote()" align=left>
+	<br>
+  <!--- neon was here--->
+	<br>
+	<br>
+    <h1 class="titlez">GlassLibrary</h1>
+    <h3 class="subtitlez"><div id="quoteDisplay"></div></h3>
+    <script src="javascript.js"></script>
+    <br><br><br><br><br><br><br><br><br><br>
+		<section class="header-down-arrow">
+			<a href="#getdown"><img src="arrow.png" height="50" width="50" onclick="this.style.display='none';"></a>
+		</section>
+
+		<br><br><br><br>
+
+    <!--Navbar-->
+				<center>
+				<div class="topnav" align=top id="getdown">
+				  <a href="index.html" class="active">Home</a>
+					<a href="glasstorrent.html">GlassLibrary</a>
+          <a href="companioncube.html">Companions</a>
+          <a href="about.html">About</a>
+					<a  href="support.html">Help Us</a>
+					<a href="others.html">Help Others</a>
+				</div>
+		  	</center>
+
+</head>
+
+<body>
+
+      <br>
+			<br>
+
+      <u><h3>Welcome!</h3></u>
+      <p>
+
+        Welcome to the GlassLibrary! To begin browsing, visit the GlassLibrary tab above. To learn more about the GlassLibrary, visit the about tab. To contribute or contact us, visit the Help Us tab. To visit external archives and torrent files, visit the Companions tab. To help other organizations, individuals, and causes, visit the Help Others tab.
+
+      </p>
+	<img src="https://imgs.xkcd.com/comics/internet_archive.png"></iframe>
+	<p style="font-size:10px">Internet Archive by XKCD, a true internet hero</p>
+	<br>
+	<br>
+     <p><b>Disclaimer:</b> The GlassLibrary does not condone digital piracy, violating copyright laws, or following the instructions given in any of the archived texts. We simply serve to archive and distribute data. Follow guides and download files at your own risk.</p>
+</body>
+
+
+<html>

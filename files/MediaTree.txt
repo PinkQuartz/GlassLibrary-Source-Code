@@ -1,0 +1,11 @@
+/GlassLibrary/Media
+`-- [   0]  Music
+    |-- [   0]  Doom
+    |   |-- [922K]  allsounds.zip
+    |   |-- [216K]  doom2music.zip
+    |   `-- [142K]  doommusic.zip
+    `-- [4.0K]  Gorillaz
+        |-- [ 10M]  DoYaThing.mp3
+        `-- [5.8M]  On Melancholy Hill (Acoustic).mp3
+
+3 directories, 5 files

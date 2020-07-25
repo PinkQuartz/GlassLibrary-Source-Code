@@ -1,0 +1,8 @@
+/GlassLibrary/Misc
+|-- [5.1K]  Douglas Adams - Biscuits.txt
+|-- [8.1K]  effects of ravioli approaching light speed.txt
+|-- [4.7K]  if religions were programming languages.txt
+|-- [ 54K]  Lenny.txt
+`-- [ 11K]  sendmail-as-turing-machine.txt
+
+0 directories, 5 files

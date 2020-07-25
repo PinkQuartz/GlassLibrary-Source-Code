@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>GlassLibrary Updates</title>
+    <link>glasslibrary.xyz</link>
+    <description>Updates from the GlassLibrary</description>
+    <language>en-us</language>
+    <managingEditor>neon@glasslibrary.xyz</managingEditor>
+    <webMaster>neon@glasslibrary.xyz</webMaster>
+    <item>
+      <title>GlassLibrary Seeding Returns!</title>
+      <pubDate>Wed, 22 Jul 2020 20:35:00 -0500</pubDate>
+      <link>https://glasslibrary.xyz/glasstorrent.html</link>
+      <description><![CDATA[After the interuption, the GlassLibrary is back to seeding. However, it is not fully stable and may go down again. An alert will be sent out of seeding goes down again, or once regular seeding resumes.]]></description>
+    </item>
+    <item>
+      <title>GlassLibrary Seeding Down</title>
+      <pubDate>Sun, 19 Jul 2020 17:57:00 -0500</pubDate>
+      <link>https://glasslibrary.xyz/glasstorrent.html</link>
+      <description><![CDATA[Due to an error in hardware and being away from my workstation, the GlassLibrary will be unable to seed torretns for roughly 2 weeks. A new alert will be sent out when seeding resumes.]]></description>
+    </item>
+    <item>
+      <title>Games Archive Update</title>
+      <pubDate>Wed, 15 Jul 2020 20:50:32 -0500</pubDate>
+      <link>https://glasslibrary.xyz/files/Games.torrent</link>
+      <description><![CDATA[Not a major update, just giving everything a test. The only new file is a backup of "Sexy Hiking"]]></description>
+    </item>
+    <item>
+      <title>GlassLibrary RSS Launches</title>
+      <pubDate>Mon, 13 Jul 2020 20:17:17 -0500</pubDate>
+      <link>glasslibrary.xyz</link>
+      <description><![CDATA[This update is nothing important, just the start of the GlassLibrary RSS feed. As torrent files get updated, this feel will alert users.]]></description>
+    </item>
+  </channel>
+</rss>
